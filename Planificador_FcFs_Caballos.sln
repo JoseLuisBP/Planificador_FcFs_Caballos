@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planificador_FcFs_Caballos", "Planificador_FcFs_Caballos.csproj", "{F92E1EE8-F350-4DD0-BE70-1F88C56F58A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92E1EE8-F350-4DD0-BE70-1F88C56F58A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92E1EE8-F350-4DD0-BE70-1F88C56F58A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92E1EE8-F350-4DD0-BE70-1F88C56F58A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92E1EE8-F350-4DD0-BE70-1F88C56F58A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D80041A-41D9-42FE-BFD2-07DDD3CD1944}
+	EndGlobalSection
+EndGlobal
